@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation publishing an act of state, and His Majesties command concerning a scandalous paper lately dispersed amongst many of his subjects.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13169</idno><idno type="EEBO-CITATION">99893145</idno>
+  <idno type="VID">186530</idno>
+  <idno type="EEBO-PROQUEST">2240926931</idno>
+  
+            <idno type="OCLC"> 22351964</idno>
+            <idno type="STC">STC 9146</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.h.4[73]</idno>
+            <idno type="STC">ESTC S396</idno>
+            <idno type="PROQUEST">ocm99893145</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893145e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186530)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:1[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation publishing an act of state, and His Majesties command concerning a scandalous paper lately dispersed amongst many of his subjects.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Majesty: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1639]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Suppressing the distribution of a manuscript entitled "Some conditions of His Majesties treaty with his subjects of Scotland are set down here for remembrance".</note>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Westminster the eleventh day of August, 1639. ...</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Steele notation: Arms 23; much to 2) di- de-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186530:1"/>
+            <pb facs="tcp:186530:1"/>
+            <head>❧ By the King.</head>
+            <head>❧ A Proclamation publishing an Act of State, and His Majesties command concerning a scandalous Paper lately dispersed amongst many of His Subjects.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas a Paper containing many falshoods, and tending much</hi> to the dishonour of His Majesties late proceedings in the pacifi<g ref="char:EOLhyphen"/>cation given to His Subjects of <hi>Scotland,</hi> hath been dispersed in divers parts of this Kingdome, whereupon an Act of Councell hath been made in these words ensuing:</p>
+            <p>On Sunday the fourth day of August, one thousand six hun<g ref="char:EOLhyphen"/>dred thirty and nine, His Majesty being in Councell, was pleased to acquaint the Lords with a Paper which he had seen at <hi>Barwick,</hi> entituled, <hi>Some conditions of His Majesties treaty with His Subjects of Scotland are set down here for remembrance.</hi> Which Paper being in most parts full of falshood, dishonour, and scandall to His Majesties proceedings in the late pacification given, of His Princely grace and good<g ref="char:EOLhyphen"/>nesse to His Subjects of <hi>Scotland,</hi> hath been very frequently spread here in <hi>England,</hi> and ad<g ref="char:EOLhyphen"/>vowed by some in <hi>Scotland</hi> to have been approved and allowed as truth, by some of those Lords of <hi>England</hi> who attended His Majesty, and were present at the Pacification in the Camp: Whereupon the Paper having been read, and His Majesty commanding those Eng<g ref="char:EOLhyphen"/>lish Lords to declare their knowledge therein, the Earle Marshall first begun to put His Majesty in remembrance that some few dayes after the Pacification was concluded, some of the Scottish Lords coming to the Lord Chamberlains Tent, sent to speak with him and the Earle of <hi>Holland,</hi> and offered them a certain Paper, which they pretended to have been collected for the help of their memories, and not otherwise, nor to be published: but the said English Lords very dutifully and discreetly refused to accept that or any such Paper, but referred themselves totally to the Pacification in writing; And the said Earle Marshall further declared, that now upon the reading, he for his part held the said Paper for the most part false and scandalous, and no way agreeable to what His Majestie expressed at the Pacification.</p>
+            <p>Next the Lord Chamberlain declared, that he being ready to take Horse, and a number of his friends about him taking their leave, the Lord <hi>Loudun</hi> pressed him with much im<g ref="char:EOLhyphen"/>portunity to receive a Paper, which he took, not knowing what it contained; But at night when he came to his lodging, doubting it might be some such Paper as had been formerly offered, and was refused, took it without reading it, and sealed it up, and so kept it untill he presented it to his Majestie at <hi>Whitehall;</hi> professing that till that time he had never read any
+<pb facs="tcp:186530:2"/>
+               <pb facs="tcp:186530:2"/>one word of it, nor seen any other Copy thereof: Which Paper being that which had been di<g ref="char:EOLhyphen"/>vulged, was the very same which his Majestie commanded to be read at the Board.</p>
+            <p>The Earle of <hi>Salisbury</hi> likewise desired to justifie himself of a particular scandall laid upon him, that he had received and brought Copies of this Paper from the North, Which he decla<g ref="char:EOLhyphen"/>red, could not be, because he was come away from the Campe before that Paper had been of<g ref="char:EOLhyphen"/>fered, and that he had never seen that nor any copy thereof, before his Majesties return to <hi>Theobalds.</hi>
+            </p>
+            <p>After this the Lord Chamberlain, the Earls of <hi>Salisbury, Holland,</hi> and <hi>Barkshire,</hi> concurred with the Earle Marshall, that the contents of that Paper were for the most part notoriously scandalous, and false, and contrary to what his Majestie clearly expressed at the Pacification.</p>
+            <p>His Majestie likewise declared, that before his coming from <hi>Barwick,</hi> he shewed a Copy of this scandalous Paper to the Earle of <hi>Lynsey,</hi> the Earle of <hi>Holland,</hi> Master Treasurer, and Master Secretary <hi>Coke,</hi> who fully concurred in the aforesaid opinion with the other Lords: All which Lords, and particularly the Earle of <hi>Holland,</hi> advowed the falsnesse thereof to the faces of those Scottish Lords, who were beleeved to be the divulgers of it, the Lords of the Councell of <hi>Scotland</hi> being there likewise present.</p>
+            <p>All which considered, the whole Board unanimously became humble petitioners to his Majestie, that this false and scandalous Paper might be publikely burnt by the Hangman; and that his Majesties pleasure might be published by Proclamation, that no person or per<g ref="char:EOLhyphen"/>sons hereafter, of what degree or condition soever, presume to keep any Copy thereof, but that within ten dayes after the said Proclamation published, every such person and persons shal deliver to the next Iustice of Peace adjoyning to his or their dwelling, all and every Copy and Copies thereof, the same to be by the said Iustice of peace immediately sent or brought to one of his Majesties principall Secretaries, upon perill of incurring the uttermost of such punishments and penalties as by the Laws of this Realme are to be inflicted upon those that keep such scandalous and seditious Papers. All which was accordingly ordered and com<g ref="char:EOLhyphen"/>manded to be entred into the Councell-Book, as an Act of State.</p>
+            <p>His Majestie therefore by the advice of his Privy Councell, doth hereby publish the said Act of State unto all his loving Subjects, to the end that being forewarned they may avoid the dangers which may ensue by the retaining or concealing any Copy or Transcript of the said Paper. Hereby requiring and straightly charging and commanding all and all manner of persons whomsoever, that they presume not to keep any Copie of the same Paper, but that within ten dayes after the publishing of this Proclamation they do deliver all and every Co<g ref="char:EOLhyphen"/>pie and Copies thereof, or of any part of the matter or writing therein contained, unto such persons, and according as in the said Act of State is directed; and fully observe the whole Contents of the said Act according to the tenour thereof, upon such pains and penalties as by the Lawes and Statutes of this Realme may be inflicted upon them for such their con<g ref="char:EOLhyphen"/>tempts and misdemeanours: His Majestie hereby pardoning and remitting unto such per<g ref="char:EOLhyphen"/>sons as have formerly had any Copie of the said Paper in their custody, and shall deliver the same according to the direction of this Proclamation, all their offences for their former de<g ref="char:EOLhyphen"/>taining thereof.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at His Majesties Palace of Westminster</hi>
+                  <date>
+                     <hi> the eleventh day of August, 1639. and in the fifteenth yeer of His Majesties Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>❧ <hi>God save the King.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by ROBERT BARKER, Printer to the Kings most Excellent Majesty: And by the Assignes of JOHN BILL. 1639.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
